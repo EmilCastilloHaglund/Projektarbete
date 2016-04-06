@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OruProjekt", "OruProjekt\OruProjekt.csproj", "{1D331FC2-F64C-44E9-98D5-50285A4C7B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{9E033FC1-1137-4DA3-8EDB-2412C37969FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D331FC2-F64C-44E9-98D5-50285A4C7B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D331FC2-F64C-44E9-98D5-50285A4C7B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D331FC2-F64C-44E9-98D5-50285A4C7B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D331FC2-F64C-44E9-98D5-50285A4C7B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E033FC1-1137-4DA3-8EDB-2412C37969FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E033FC1-1137-4DA3-8EDB-2412C37969FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E033FC1-1137-4DA3-8EDB-2412C37969FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E033FC1-1137-4DA3-8EDB-2412C37969FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

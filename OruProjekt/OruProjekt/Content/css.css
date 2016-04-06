@@ -1,0 +1,36 @@
+﻿body {
+     
+}
+
+
+#vägg{
+    
+    /*position: center;*/
+}
+#f {
+    display: inline-block;
+    width: 25%;
+    height: 500px;
+    border: solid;
+    border-width: 1px;
+    margin: 5px;
+}
+
+#u {
+    display: inline-block;
+    width: 25%;
+    height: 500px;
+    border: solid;
+    border-width: 1px;
+    margin: 5px;
+}
+#s {
+    display: inline-block;
+    width: 25%;
+    height: 500px;
+    border: solid;
+    border-width: 1px;
+    margin: 5px;
+}
+
+    

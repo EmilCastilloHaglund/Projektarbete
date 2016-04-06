@@ -1,0 +1,5 @@
+c:\users\jakob\documents\visual studio 2015\Projects\OruProjekt\Repositories\bin\Debug\Repositories.dll
+c:\users\jakob\documents\visual studio 2015\Projects\OruProjekt\Repositories\bin\Debug\Repositories.pdb
+c:\users\jakob\documents\visual studio 2015\Projects\OruProjekt\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+c:\users\jakob\documents\visual studio 2015\Projects\OruProjekt\Repositories\obj\Debug\Repositories.dll
+c:\users\jakob\documents\visual studio 2015\Projects\OruProjekt\Repositories\obj\Debug\Repositories.pdb

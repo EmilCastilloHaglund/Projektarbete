@@ -136,3 +136,5 @@ C:\Users\Emil\Desktop\Github\Projektarbete\OruProjekt\OruProjekt\bin\Microsoft.O
 C:\Users\Emil\Desktop\Github\Projektarbete\OruProjekt\OruProjekt\obj\Debug\OruProjekt.csprojResolveAssemblyReference.cache
 C:\Users\Emil\Desktop\Github\Projektarbete\OruProjekt\OruProjekt\obj\Debug\OruProjekt.dll
 C:\Users\Emil\Desktop\Github\Projektarbete\OruProjekt\OruProjekt\obj\Debug\OruProjekt.pdb
+C:\Users\Jakob\Source\Repos\Projektarbete\OruProjekt\OruProjekt\obj\Debug\OruProjekt.csprojResolveAssemblyReference.cache
+C:\Users\Jakob\Source\Repos\Projektarbete\OruProjekt\OruProjekt\obj\Debug\OruProjekt.pdb
